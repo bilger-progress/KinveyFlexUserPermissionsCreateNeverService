@@ -1,0 +1,30 @@
+{
+  "name": "kinveyflexuserpermissionscreateneverservice",
+  "version": "1.0.5",
+  "description": "Creating Kinvey App Users through a Flex Service.",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilger-progress/KinveyFlexUserPermissionsCreateNeverService.git"
+  },
+  "keywords": [
+    "Flex",
+    "Kinvey",
+    "Users",
+    "Auth"
+  ],
+  "dependencies": {
+    "kinvey-flex-sdk": "3.2.1",
+    "request": "2.88.0",
+    "request-promise": "4.2.2"
+  },
+  "author": "Bilger Yahov @ Kinvey by Progress",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bilger-progress/KinveyFlexUserPermissionsCreateNeverService/issues"
+  },
+  "homepage": "https://github.com/bilger-progress/KinveyFlexUserPermissionsCreateNeverService#readme"
+}
